@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Your profile</name>
+   <tag></tag>
+   <elementGuidId>a5278abf-3e37-4e06-9f7b-096bbc69bef0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id=':rj:--label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>87d7afa3-e295-4963-bff9-7a104d9ba944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:rj:--label</value>
+      <webElementGuid>7367b155-a91e-4516-8c96-c229243dcc1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Box-sc-g0xbh4-0 jtiCfm</value>
+      <webElementGuid>c238e5e4-7419-4146-9408-d9299a60ba61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your profile</value>
+      <webElementGuid>6c02a8db-6d71-4f93-b8f6-e3b599615cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:rj:--label&quot;)</value>
+      <webElementGuid>7b97a349-90e2-4a1e-8646-9c9f88437f7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id=':rj:--label']</value>
+      <webElementGuid>6a6e3809-f9db-445f-ab12-bbf942c4233a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id=':rj:']/div/span</value>
+      <webElementGuid>bea48cab-0341-467d-bba0-1722d95a60ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set status'])[1]/following::span[2]</value>
+      <webElementGuid>c7f09504-cb0a-43e6-a590-da887d509ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stacey Vanyo'])[1]/following::span[5]</value>
+      <webElementGuid>b9af4896-08fc-41c4-8e27-2a6f7dc9078b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your repositories'])[1]/preceding::span[2]</value>
+      <webElementGuid>5f685d09-08f9-40f9-bad2-be688395b0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Copilot'])[1]/preceding::span[4]</value>
+      <webElementGuid>0d10c526-064a-4e77-b1ec-c5418931f0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your profile']/parent::*</value>
+      <webElementGuid>c515e06b-3950-41da-9072-9f43cf46b468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>7767de2c-b97f-46ea-86c3-06014561ec95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = ':rj:--label' and (text() = 'Your profile' or . = 'Your profile')]</value>
+      <webElementGuid>15cbc18a-d8f4-4af2-b187-dc5dc814512e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

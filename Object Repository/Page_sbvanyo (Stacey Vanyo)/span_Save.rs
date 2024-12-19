@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save</name>
+   <tag></tag>
+   <elementGuidId>cb81fb86-639e-4f75-8259-328b509d1854</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[5]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.Button--primary.Button--small.Button.d-inline-flex > span.Button-content > span.Button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2407d6e0-7f6c-4f9b-a0ae-d53fca186a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button-label</value>
+      <webElementGuid>87b81ddf-b1c0-4bd3-8dc4-f09224f0c4bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>ef99ef62-8b9a-4482-8bac-6bed31a72dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js-focus-visible&quot;]/body[@class=&quot;logged-in env-production page-responsive page-profile mine&quot;]/div[@class=&quot;logged-in env-production page-responsive page-profile mine&quot;]/div[@class=&quot;application-main&quot;]/main[1]/div[@class=&quot;container-xl px-3 px-md-4 px-lg-5 mt-2&quot;]/div[@class=&quot;Layout Layout--flowRow-until-md Layout--sidebarPosition-start Layout--sidebarPosition-flowRow-start&quot;]/div[@class=&quot;Layout-sidebar&quot;]/div[@class=&quot;h-card mt-5&quot;]/div[@class=&quot;js-profile-editable-replace&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;flex-order-1 flex-md-order-none&quot;]/waiting-form[1]/form[@class=&quot;position-relative flex-auto js-profile-editable-form&quot;]/div[@class=&quot;my-3&quot;]/button[@class=&quot;Button--primary Button--small Button d-inline-flex&quot;]/span[@class=&quot;Button-content&quot;]/span[@class=&quot;Button-label&quot;]</value>
+      <webElementGuid>08b68b15-ceb6-4a53-88e0-9506d4606507</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[5]/following::span[2]</value>
+      <webElementGuid>2526e86a-1e47-4d13-ab22-48159d58b179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[4]/following::span[30]</value>
+      <webElementGuid>8b14933e-8a96-4e33-a971-8220ad9166ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/preceding::span[1]</value>
+      <webElementGuid>fc1c99bb-9e09-4d08-a522-6e39be6ea69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studying full-stack web development at Nashville Software School.'])[2]/preceding::span[3]</value>
+      <webElementGuid>a377c6db-ca71-4dde-8341-25dca1581cdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>66439c1d-27b7-46c5-b421-21a576ccc8b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/button/span/span</value>
+      <webElementGuid>40d4a282-aa80-4146-a63e-9cee53b6190e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>84cfb9db-af84-4991-8c79-d21a7708b2a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
