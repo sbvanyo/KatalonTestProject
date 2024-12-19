@@ -17,3 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://github.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_GitHub  Build and ship software on a s_00080d/a_Sign in'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to GitHub  GitHub/input_Username or email address_login'), 
+    'sbvanyo')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to GitHub  GitHub/input_Password_password'), 'ehC0kYuUQPBxCW7J80LS7w==')
+
+WebUI.click(findTestObject('Object Repository/Page_Sign in to GitHub  GitHub/input_Forgot password_commit'))
+
+WebUI.click(findTestObject('Object Repository/Page_Two-factor authentication  GitHub/span_Use passkey'))
+
+WebUI.click(findTestObject('Object Repository/Page_GitHub/img_Create new_avatar circle'))
+
+WebUI.click(findTestObject('Object Repository/Page_GitHub/span_Your profile'))
+
+WebUI.click(findTestObject('Object Repository/Page_sbvanyo (Stacey Vanyo)/button_Edit profile'))
+
+WebUI.setText(findTestObject('Object Repository/Page_sbvanyo (Stacey Vanyo)/textarea_Studying full-stack web developmen_797c8a'), 
+    'Studying full-stack web development.')
+
+WebUI.setText(findTestObject('Object Repository/Page_sbvanyo (Stacey Vanyo)/input_Pronouns_userprofile_company'), 'FortyAU')
+
+WebUI.click(findTestObject('Object Repository/Page_sbvanyo (Stacey Vanyo)/span_Save'))
+
+WebUI.closeBrowser()
+
